@@ -1,7 +1,3 @@
-//package com.bham.pij.assignments.pontoon;
-
-//Charalampos 2165173
-
 import java.util.ArrayList;
 
 /* This is an abstract class that will be used as the base 
