@@ -1,7 +1,3 @@
-//package com.bham.pij.assignments.pontoon;
-
-//Charalampos 2165173
-
 public class Pontoon extends CardGame 
 {
 
