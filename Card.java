@@ -57,7 +57,6 @@ public class Card {
 	}
 
 
-
 	/* return's an arraylist of numerical values 
 	 * of a card's value */ 
 	public ArrayList<Integer> getNumericalValue()
